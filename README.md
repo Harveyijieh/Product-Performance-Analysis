@@ -1,2 +1,2 @@
-# Product-Performance-Analysis
-Identify top-selling and slow-moving products and evaluate product profitability
+# Product-Performance-Analysis For Northwind Traders
+### This project  explores and evaluates product sales data within the Northwind Traders database  The Northwind database is a classic dataset that represents a fictional company managing orders, products, customers, and employees. The goal of this analysis is to uncover insights into product performance, profitability, and sales patterns to aid data-driven business decisionsand Identify top-selling and slow-moving products and evaluate product profitability
