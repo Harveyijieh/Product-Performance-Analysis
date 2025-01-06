@@ -29,14 +29,11 @@ Postgres [Download here](https://www.postgresql.org/)
 
 ### Findings 
 
-Top Revenue-Generating Products:
-- The product analysis reveals that Côte de Blaye contributes the highest revenue, driving significant sales in the Beverages category.
+1 Top Revenue-Generating Products:The product analysis reveals that Côte de Blaye contributes the highest revenue, driving significant sales in the Beverages category.
 
-Top Revenue-Generating Category:
-- The Beverage category tops all other categories with the highest revenue.
+2 Top Revenue-Generating Category:The Beverage category tops all other categories with the highest revenue.
 
-Top Customers:
-- Save-a-lot Markets is the customer with the highest orders and revenue generated.
+3 Top Customers:Save-a-lot Markets is the customer with the highest orders and revenue generated.
 
 ### Conclusions
 This product performance analysis project using SQL enables us to explore and gain insights from the dataset. SQL queries allows for the conducting of a wide range of analysis, and identifying trends. You are welcome to carryout more analysis and build upon the already provided solutions to meet the need of you analysis.
